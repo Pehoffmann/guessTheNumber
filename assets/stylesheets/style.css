@@ -51,7 +51,7 @@ h1 {
   text-align: center;
   position: absolute;
   width: 100%;
-  top: 32%;
+  top: 42%;
   left: 52%;
   transform: translate(-50%, -50%);
 }
@@ -72,8 +72,8 @@ h1 {
 .between {
   font-size: 1.4rem;
   position: absolute;
-  top: 10rem;
-  right: 42%;
+  top: 15rem;
+  right: 43.5%;
 }
 
 .again {
