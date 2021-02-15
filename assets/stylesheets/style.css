@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
 
 * {
   margin: 0;
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  font-family: 'Press Start 2P', sans-serif;
+  font-family: "Press Start 2P", sans-serif;
   color: #eee;
   background-color: #222;
   /* background-color: #60b347; */
@@ -51,8 +51,8 @@ h1 {
   text-align: center;
   position: absolute;
   width: 100%;
-  top: 52%;
-  left: 50%;
+  top: 32%;
+  left: 52%;
   transform: translate(-50%, -50%);
 }
 
@@ -72,8 +72,8 @@ h1 {
 .between {
   font-size: 1.4rem;
   position: absolute;
-  top: 2rem;
-  right: 2rem;
+  top: 10rem;
+  right: 42%;
 }
 
 .again {
